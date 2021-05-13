@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:  
-* [Класс фэйлит правильный ключ 80b427f8-92cd-3aae-ba04-03927fbe17c6](https://github.com/goso-nct/netology-java-dz1.1-t2/issues/2)  
-* [Класс фэйлит правильный ключ 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/goso-nct/netology-java-dz1.1-t2/issues/3)
-* [Класс океит неправильный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/goso-nct/netology-java-dz1.1-t2/issues/4)
+* [Приложение валидирует неправильный ключ](https://github.com/goso-nct/netology-java-dz1.1-t2/issues/5)  
+* [Приложение не валидирует правильный ключ](https://github.com/goso-nct/netology-java-dz1.1-t2/issues/6)
+
 
 Установка OpenJDK11 по [инструкции](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md) прошла успешно (*не проверял*).  
 Приложение запускается и совместимо с Java 11.  
